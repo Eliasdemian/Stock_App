@@ -7,3 +7,6 @@ stock_app_env\Scripts\activate.bat
 
 to download depencies for the project:
 pip install -r requirements.txt
+
+
+deployed streamlit app: https://share.streamlit.io/eliasdemian/stock_app/main/main.py
